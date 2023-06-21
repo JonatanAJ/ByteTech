@@ -11,7 +11,7 @@ Bootstrap 5: Um framework front-end que facilita a criação de layouts responsi
 
 # Funcionalidades e Uso das Tecnologias
 # HTML5
-O HTML5 é utilizado para estruturar o conteúdo do site. Cada página do site é criada com base em tags semânticas do HTML5, como <header>, <nav>, <section>, <article>, <footer>, entre outras. Isso ajuda na organização e acessibilidade do site.
+O HTML5 é utilizado para estruturar o conteúdo do site. Cada página do site é criada com base em tags semânticas do HTML5, como header, nav, section, article, footer, entre outras. Isso ajuda na organização e acessibilidade do site.
 
 # CSS3
 O CSS3 é responsável pela estilização do site. No arquivo style.css, são definidas regras de estilo que modificam as propriedades dos elementos HTML. Isso inclui a definição de cores, fontes, tamanhos, posicionamentos, margens, entre outros aspectos visuais.
