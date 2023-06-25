@@ -58,7 +58,7 @@ header, .navbar {
 }
 
 #mainSlider .carousel-inner, #mainSlider .carousel-item {
-  height: 99vh;
+  height: 90vh;
 }
 
 #mainSlider .carousel-caption {
